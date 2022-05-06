@@ -13,7 +13,7 @@ light and fan respectively.
 
 # Image related to project
 
-Item controlled by nodemcu
+Item controlled by Nodemcu
 
 ![image](https://user-images.githubusercontent.com/93763994/166958065-37c5bfe8-95f7-4fb2-9f20-957bddbe9163.png)
 
